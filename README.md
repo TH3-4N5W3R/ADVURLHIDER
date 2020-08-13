@@ -16,7 +16,7 @@ $git clone https://github.com/TH3-4N5W3R/ADVURLHIDER
 $cd ADVURLHIDER
 $ls
 $chmod +x *
-$pip3 install requirements.txt
+$pip3 install -r requirements.txt
 $python3 ADVURLHIDER.py
 ```
 
